@@ -3,7 +3,7 @@ syntax reset
 let g:colors_name = "AlphaTheme"
 set background=dark
 set t_Co=256
-hi Normal guifg=#f9f9f9 ctermbg=NONE guibg=#111111 gui=NONE
+hi Normal guifg=#f9f9f9 ctermbg=NONE guibg=#383e54 gui=NONE
 
 hi DiffText guifg=#FF4646 guibg=NONE
 hi ErrorMsg guifg=#FF4646 guibg=NONE
@@ -63,15 +63,15 @@ hi javascriptAsyncKeyword guifg=#20fc03 guibg=#606077
 hi Pmenu guifg=#f9f9f9 guibg=#606077
 hi SignColumn guibg=#1c1c3d
 hi Title guifg=#f9f9f9
-hi LineNr guifg=#939393 guibg=#111111
-hi NonText guifg=#9595c3 guibg=#111111
+hi LineNr guifg=#939393 guibg=#383e54
+hi NonText guifg=#9595c3 guibg=#383e54
 hi Comment guifg=#9595c3 gui=italic
-hi SpecialComment guifg=#9595c3 gui=italic guibg=#111111
+hi SpecialComment guifg=#9595c3 gui=italic guibg=#383e54
 hi CursorLine guibg=#606077
 hi TabLineFill gui=NONE guibg=#606077
 hi TabLine guifg=#939393 guibg=#606077 gui=NONE
 hi StatusLine gui=bold guibg=#606077 guifg=#f9f9f9
-hi StatusLineNC gui=NONE guibg=#111111 guifg=#f9f9f9
+hi StatusLineNC gui=NONE guibg=#383e54 guifg=#f9f9f9
 hi Search guibg=#9595c3 guifg=#f9f9f9
 hi VertSplit gui=NONE guifg=#606077 guibg=NONE
 hi Visual gui=NONE guibg=#606077
