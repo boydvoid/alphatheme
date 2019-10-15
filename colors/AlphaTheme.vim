@@ -3,7 +3,7 @@ syntax reset
 let g:colors_name = "AlphaTheme"
 set background=dark
 set t_Co=256
-hi Normal guifg=#f9f9f9 ctermbg=NONE guibg=#383e54 gui=NONE
+hi Normal guifg=#f9f9f9 ctermbg=NONE guibg=#2b2e37 gui=NONE
 
 hi DiffText guifg=#FF4646 guibg=NONE
 hi ErrorMsg guifg=#FF4646 guibg=NONE
@@ -63,10 +63,10 @@ hi javascriptAsyncKeyword guifg=#20fc03 guibg=#606077
 hi Pmenu guifg=#f9f9f9 guibg=#606077
 hi SignColumn guibg=#1c1c3d
 hi Title guifg=#f9f9f9
-hi LineNr guifg=#939393 guibg=#383e54
-hi NonText guifg=#9595c3 guibg=#383e54
+hi LineNr guifg=#939393 guibg=#2b2e37
+hi NonText guifg=#9595c3 guibg=#2b2e37
 hi Comment guifg=#9595c3 gui=italic
-hi SpecialComment guifg=#9595c3 gui=italic guibg=#383e54
+hi SpecialComment guifg=#9595c3 gui=italic guibg=#2b2e37
 hi CursorLine guibg=#606077
 hi TabLineFill gui=NONE guibg=#606077
 hi TabLine guifg=#939393 guibg=#606077 gui=NONE
